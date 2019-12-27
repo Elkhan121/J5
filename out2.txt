@@ -1,0 +1,15 @@
+{
+  "manufactured": "15-11-2019  21:02:29",
+  "material": {
+    "legMaterial": "metal",
+    "boardMaterial": "wood"
+  },
+  "colors": [
+    "red",
+    "yellow",
+    "black"
+  ],
+  "height": 80,
+  "width": 21,
+  "lenght": 21
+}
