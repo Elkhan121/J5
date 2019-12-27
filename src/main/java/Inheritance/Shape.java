@@ -9,7 +9,6 @@ public class Shape {
        widht = 1;
        height = widht;
     }
-
     public Shape(int widht) {
         this.widht = widht;
         height = this.widht;
